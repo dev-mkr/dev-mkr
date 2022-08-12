@@ -1,8 +1,5 @@
 
 <h1 align="center">Hi 👋, I'm Mohamed <img src="mkrLogo.svg" width="30" height="30" alt="Logo"></h1> 
-
-<h3 align="center">Junior Frontend Developer✨in love with @reactjs Coding addict, JavaScript enthusiast, UI lover.</h3>
-
 - 🔭 I’m currently working on [Focus Hub](https://github.com/dev-mkr/Focus-Hub)
 
 - 🌱 I’m currently learning/ want to learn **Redux, Nextjs, TypeScript, UnitTesting, E2E testing, Vuejs, Gatsby**
