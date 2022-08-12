@@ -1,5 +1,6 @@
-<h1 align="center">Hi 👋, I'm Mohamed</h1>
-<h3 align="center">Junior Frontend Developer✨in love with @reactjs Coding addict, JavaScript enthusiast, UI lover. Writing technical stuff✍️ about Frontend development.</h3>
+<h1 align="center">Hi 👋, I'm Mohamed </h1>
+
+<h3 align="center">Junior Frontend Developer✨in love with @reactjs Coding addict, JavaScript enthusiast, UI lover.</h3>
 
 - 🔭 I’m currently working on [Focus Hub](https://github.com/dev-mkr/Focus-Hub)
 
