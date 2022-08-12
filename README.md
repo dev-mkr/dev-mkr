@@ -1,4 +1,4 @@
-
+<p align="end"> <img src="mkrLogo.svg" width="30" height="30" alt="Logo"> </p>
 <h1 align="center">Hi 👋, I'm Mohamed </h1> 
 
 - 🔭 I’m currently working on [Focus Hub](https://github.com/dev-mkr/Focus-Hub)
