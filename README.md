@@ -1,5 +1,5 @@
-![cover](https://user-images.githubusercontent.com/101500659/184359581-69e90c2e-b085-43fe-8980-717cd3359df2.png)
-<h1 align="center">Hi 👋, I'm Mohamed </h1> 
+
+<h1 align="center">Hi 👋, I'm Mohamed <img src="mkrLogo.svg" width="30" height="30" alt="Logo"></h1> 
 
 <h3 align="center">Junior Frontend Developer✨in love with @reactjs Coding addict, JavaScript enthusiast, UI lover.</h3>
 
