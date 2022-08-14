@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Focus Hub](https://github.com/dev-mkr/Focus-Hub)
 
-- 🌱 I’m currently learning/ want to learn **Redux, Nextjs, TypeScript, UnitTesting, E2E testing, Vuejs, Gatsby**
+- 🌱 I’m currently learning/ want to learn **Nextjs, TypeScript, Vuejs, Gatsby, nodejs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dev-mkr](https://github.com/dev-mkr)
 
