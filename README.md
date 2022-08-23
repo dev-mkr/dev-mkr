@@ -11,6 +11,8 @@
 
 - 📫 How to reach me **hi@dev-mkr.me**
 
+resume **https://dev-mkr.me/resume/**
+
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 <a href="https://twitter.com/dev_mkr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="dev_mkr" height="30" width="40" /></a>
