@@ -9,7 +9,7 @@
 
 - 💬 Ask me about **Frontend Technologies**
 
-- 📫 How to reach me **mkr.contactme@gamil.com**
+- 📫 How to reach me **hi@dev-mkr.me**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
