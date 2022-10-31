@@ -1,9 +1,7 @@
 <p align="end"> <img src="mkrLogo.svg" width="30" height="30" alt="Logo"> </p>
-<h1 align="center">Hi 👋, I'm Mohamed </h1> 
+<h1 align="center">Hi 👋, my name is Mohamed </h1> 
 
-- 🔭 I’m currently working on [Focus Hub](https://github.com/dev-mkr/Focus-Hub)
-
-- 🌱 I’m currently learning/ want to learn **Nextjs, TypeScript, Vuejs, Gatsby, nodejs**
+- 🌱 I’m currently learning/ want to learn **Vuejs, nodejs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/dev-mkr](https://github.com/dev-mkr)
 
