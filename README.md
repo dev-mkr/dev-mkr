@@ -7,9 +7,9 @@
 
 - 💬 Ask me about **Frontend Technologies**
 
-- 📫 How to reach me **hi@dev-mkr.me**
+- 📫 How to reach me **divmkr.me@gmail.com**
 
-resume **https://dev-mkr.me/resume/**
+resume [Mohamed Kharashy Resume](https://github.com/dev-mkr/dev-mkr/files/12388286/Mohamed.Kharashy.junior.front-end.reactjs-nextjs.pdf) 
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
