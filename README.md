@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **divmkr.me@gmail.com**
 
-resume [Mohamed Kharashy Resume](https://github.com/dev-mkr/dev-mkr/files/12388286/Mohamed.Kharashy.junior.front-end.reactjs-nextjs.pdf) 
+resume [Mohamed Kharashy Resume](https://drive.google.com/file/d/1-8UtZerX1dKsCN9ijmVcHUl6YYP0xe5J/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
